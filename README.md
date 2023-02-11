@@ -2,7 +2,7 @@
 
 ## Live preview
 
-[https://coin-traker-react.vercel.app/](https://coin-traker-react.vercel.app/)
+[https://coin-tracker-react.vercel.app/](https://coin-tracker-react.vercel.app/)
 
 
 ## Screenshots
